@@ -1,4 +1,4 @@
-### <samp>**> Hi there 👋, I'm Matheus **</samp>
+### <samp> Hi there 👋, I'm Matheus </samp>
 
 I am just a programming student (actually), a curious guy and a dreamer.
 
