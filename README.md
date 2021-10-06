@@ -14,7 +14,7 @@ I am just a programming student (actually), a curious guy and a dreamer.
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfernand&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfernand&theme=tokyonight)
 
 </details>
 
