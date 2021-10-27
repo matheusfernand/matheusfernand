@@ -1,6 +1,6 @@
 ### <samp> Hi there 👋, I'm Matheus </samp>
 
-I am a trainee developer, a curious guy and a dreamer.
+Im a trainee developer, a curious guy and a dreamer.
 
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
